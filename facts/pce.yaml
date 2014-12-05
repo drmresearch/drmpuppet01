@@ -1,0 +1,10 @@
+app_id: pce_drm
+branch_name: drmpuppet01_branch01
+data_volume: 10
+datacenter: st_louis
+device_path: /dev/sdb
+instance_uuid: 
+is_pce: true
+pce_dc: true
+pce_environment: devint
+server_role: 
